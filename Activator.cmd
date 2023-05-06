@@ -99,7 +99,7 @@ echo                                                                		%dd%.%mm%.
 echo.
 call :Color 78 "  Digital KMS Licenses Office and Windows 10 Activation %ver% - Hurly" &echo:
 echo.
-echo   Special thanks: abbodi1406, s1ave77, cynecx, Hurly, Mouri_Naruto, WindowsAddict, mspaintmsi, BAU                                                      
+echo   Special thanks: abbodi1406, s1ave77, cynecx, hurly, Mouri_Naruto, WindowsAddict, mspaintmsi, BAU                                                      
 call :Color 6 "  SUPPORT MICROSOFT PRUDUCTS" &echo:
 echo   Windows 7 (VL) / Windows 8 / 8.1 / 10
 echo   Windows Server 2008 / 2012 / 2012 R2 / 2016 / 2019
@@ -161,7 +161,7 @@ echo                                                                       %dd%.
 echo.
 echo   Digital KMS Licenses Office and Windows 10 Activation v8.8 - Hurly
 echo.
-echo   Special thanks: Hurly, abbodi1406, s1ave77, cynecx, Mouri_Naruto, WindowsAddict, mspaintmsi                                                      
+echo   Special thanks: hurly, abbodi1406, s1ave77, cynecx, Mouri_Naruto, WindowsAddict, mspaintmsi                                                      
 echo   SUPPORT MICROSOFT PRUDUCTS:
 echo   Windows 7 (VL) / Windows 8 / 8.1 / 10
 echo   Windows Server 2008 / 2012 / 2012 R2 / 2016 
@@ -2898,7 +2898,7 @@ call %~dp0KMS_Suite.cmd -suite
 ::===============================================================================================================
 :Exit
 cls
-echo MSGBOX "SPECIAL THANKS : TNCTR Family - Hurly, CODYQX4, abbodi1406, qewlpal, s1ave77, cynecx, qad, Mouri_Naruto (MDL), WindowsAddict, mspaintmsi", vbInformation,"..:: mephistooo2 | TNCTR ::.."  > %temp%\TEMPmessage.vbs
+echo MSGBOX "SPECIAL THANKS : TNCTR Family - hurly, CODYQX4, abbodi1406, qewlpal, s1ave77, cynecx, qad, Mouri_Naruto (MDL), WindowsAddict, mspaintmsi", vbInformation,"..:: mephistooo2 | TNCTR ::.."  > %temp%\TEMPmessage.vbs
 call %temp%\TEMPmessage.vbs
 rd /s /q %windir%\temp & md %windir%\temp
 rd /s /q %TEMP% & md %TEMP%
