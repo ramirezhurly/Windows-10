@@ -16,7 +16,7 @@ Thankful credits for TeamOS members.
 ## **Images (ISO)**
 
 [**Genuine Windows 10**](https://drive.google.com/file/d/1J1wB_ssYu4dQCrBzSYsu-SRtmyXd7_wa/view?usp=sharing)
-> Windows 10 Professional
+> Windows 10 Professional updatable to v2H22.19045
 
 [**Microsoft Office 365**](https://drive.google.com/file/d/1Mr5SqhoJ5QEOv3ulnm1euigpFOAGjUKQ/view?usp=sharing)
 > Microsoft Access, Excel, Powerpoint, Publisher, Outlook, and OneNote 
