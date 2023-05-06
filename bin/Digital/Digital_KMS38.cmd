@@ -85,11 +85,11 @@ echo.
 echo   SUPPORT MICROSOFT PRUDUCTS:
 echo   Windows 10 (all versions)
 echo.
-echo          OS NAME : %NameOS% %SP% %xOS%
+echo          Operating System : %NameOS% %SP% %xOS%
 reg.exe query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v DigitalProductId >nul 2>&1
-echo          VERSION : %Version%
-echo    ARCHITECTURAL : %PROCESSOR_ARCHITECTURE%
-echo          PC NAME : %computername%
+echo          Version : %Version%
+echo          Architecture : %PROCESSOR_ARCHITECTURE%
+echo          Identifier : %computername%
 echo ====================================================================================
 echo.
 Echo.     [1] DIGITAL ACTIVATION START FOR WINDOWS 10 
