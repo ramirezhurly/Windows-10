@@ -1,0 +1,5 @@
+Installing Windows 10 Methods
+
+Method 1: USB/CD/DVD, via Rufus or Ventoy, via delete method
+
+Method 2: Desktop, in the ISO, Select the Sources Folder then find and open the setup file, via format method.
