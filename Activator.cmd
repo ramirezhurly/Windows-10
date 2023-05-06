@@ -99,17 +99,17 @@ echo                                                                		%dd%.%mm%.
 echo.
 call :Color 78 "  Digital KMS Licenses Office and Windows 10 Activation %ver% - Hurly" &echo:
 echo.
-echo   Special thanks: Hurly, abbodi1406, s1ave77, cynecx, Mouri_Naruto, WindowsAddict, mspaintmsi, BAU                                                      
+echo   Special thanks: abbodi1406, s1ave77, cynecx, Hurly, Mouri_Naruto, WindowsAddict, mspaintmsi, BAU                                                      
 call :Color 6 "  SUPPORT MICROSOFT PRUDUCTS" &echo:
 echo   Windows 7 (VL) / Windows 8 / 8.1 / 10
 echo   Windows Server 2008 / 2012 / 2012 R2 / 2016 / 2019
 echo   Office 2010 / 2013 / 2016 / 2019 (VL)
 echo.
-echo          Operating System : %NameOS% %SP% %xOS%
+echo   Operating System : %NameOS% %SP% %xOS%
 reg.exe query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v DigitalProductId >nul 2>&1
-echo          Version : %Version%
-echo          Architecture : %PROCESSOR_ARCHITECTURE%
-echo          PC Name : %computername%
+echo   Version : %Version%
+echo   Architecture : %PROCESSOR_ARCHITECTURE%
+echo   PC Name : %computername%
 echo ============================================================================================
 echo.
 call :Color 6 "     [1] ACTIVATION START FOR WINDOWS 10 & OFFICE (KMS Inject Method)" &echo:
