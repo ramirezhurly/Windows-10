@@ -107,8 +107,8 @@ echo   Office 2010 / 2013 / 2016 / 2019 (VL)
 echo.
 echo          Operating System : %NameOS% %SP% %xOS%
 reg.exe query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v DigitalProductId >nul 2>&1
-echo        Version : %Version%
-echo  Architecture : %PROCESSOR_ARCHITECTURE%
+echo          Version : %Version%
+echo          Architecture : %PROCESSOR_ARCHITECTURE%
 echo          PC Name : %computername%
 echo ============================================================================================
 echo.
