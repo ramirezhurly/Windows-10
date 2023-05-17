@@ -1,4 +1,5 @@
 ![QdFP4d](https://user-images.githubusercontent.com/113744293/236598268-8699e981-a4e7-44c4-85aa-c58eb57dd2c0.png)
+![Untitled](https://github.com/ramirezhurly/Windows-10/assets/113744293/1b666b46-a35c-4681-b353-46461a150cc8)
 
 
 ## Windows 10 and Office Activation
@@ -10,7 +11,7 @@ KMS Activation and Digital Activation
 This repository is of public use and intended for educational purposes only,
 Activator and bin folder must be compiled in a single phrase folder.
 
-Thankful credits for TeamOS members.
+Thankful credits for TeamOS Acquaintances and Turkish Network Community.
 ```
 
 ## **Images (ISO)**
