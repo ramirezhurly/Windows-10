@@ -1,5 +1,4 @@
-![QdFP4d](https://user-images.githubusercontent.com/113744293/236598268-8699e981-a4e7-44c4-85aa-c58eb57dd2c0.png)
-![Untitled](https://github.com/ramirezhurly/Windows-10/assets/113744293/1b666b46-a35c-4681-b353-46461a150cc8)
+![236598268-8699e981-a4e7-44c4-85aa-c58eb57dd2c0](https://github.com/ramirezhurly/Windows-10/assets/113744293/94291946-dfed-4bf6-816c-622da28b824a)
 
 
 ## Windows 10 and Office Activation
