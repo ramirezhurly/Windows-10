@@ -1,16 +1,5 @@
 @echo off
 cd /d "%~dp0"
-if NOT "%cd%"=="%cd: =%" (
-    echo.
-    echo    ..:: WARNING ::..
-    echo    There are spaces in the current folder name.
-    echo    Please rename it to a name that does not contain the folder space character.
-    echo.
-    echo    Press any key to EXIT...
-    echo.
-	pause >nul
-    goto :EOF
-)
 
 if "[%1]" == "[49127c4b-02dc-482e-ac4f-ec4d659b7547]" goto :MAINMENU
 REG QUERY HKU\S-1-5-19\Environment >NUL 2>&1 && goto :MAINMENU
