@@ -7,7 +7,7 @@
 
 ```
 KMS Activation and Digital Activation
-This repository is of public use and intended for educational purposes only,
+This repository is of public use and intended for educational and enterprise purposes only,
 Activator and bin folder must be compiled in a single phrase folder.
 
 Thankful credits for TeamOS Acquaintances and Turkish Network Community.
